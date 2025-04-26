@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoZelda", "JogoZelda\JogoZelda.csproj", "{F97CFA41-74CC-44C6-870E-3219D0579DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{2C2A6D20-79E6-4FE5-9AB3-B824E1C60D59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "Plugins\Plugins.csproj", "{C92F6EC7-CD06-4C71-8B06-A1E3186385D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +21,14 @@ Global
 		{F97CFA41-74CC-44C6-870E-3219D0579DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F97CFA41-74CC-44C6-870E-3219D0579DD8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F97CFA41-74CC-44C6-870E-3219D0579DD8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2C2A6D20-79E6-4FE5-9AB3-B824E1C60D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2A6D20-79E6-4FE5-9AB3-B824E1C60D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2A6D20-79E6-4FE5-9AB3-B824E1C60D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2A6D20-79E6-4FE5-9AB3-B824E1C60D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92F6EC7-CD06-4C71-8B06-A1E3186385D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92F6EC7-CD06-4C71-8B06-A1E3186385D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92F6EC7-CD06-4C71-8B06-A1E3186385D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92F6EC7-CD06-4C71-8B06-A1E3186385D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

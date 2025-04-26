@@ -1,10 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Senac\\Desktop\\JogoZelda\\",
+  "WorkspaceRootPath": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F97CFA41-74CC-44C6-870E-3219D0579DD8}|JogoZelda\\JogoZelda.csproj|c:\\users\\senac\\desktop\\jogozelda\\jogozelda\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F97CFA41-74CC-44C6-870E-3219D0579DD8}|JogoZelda\\JogoZelda.csproj|c:\\users\\senac\\desktop\\zelda\\jogozelda\\jogozelda\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F97CFA41-74CC-44C6-870E-3219D0579DD8}|JogoZelda\\JogoZelda.csproj|solutionrelative:jogozelda\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92F6EC7-CD06-4C71-8B06-A1E3186385D9}|Plugins\\Plugins.csproj|c:\\users\\senac\\desktop\\zelda\\jogozelda\\plugins\\sqlite\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92F6EC7-CD06-4C71-8B06-A1E3186385D9}|Plugins\\Plugins.csproj|solutionrelative:plugins\\sqlite\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Senac\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2A6D20-79E6-4FE5-9AB3-B824E1C60D59}|Domain\\Domain.csproj|c:\\users\\senac\\desktop\\zelda\\jogozelda\\domain\\entities\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2A6D20-79E6-4FE5-9AB3-B824E1C60D59}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97CFA41-74CC-44C6-870E-3219D0579DD8}|JogoZelda\\JogoZelda.csproj|c:\\users\\senac\\desktop\\zelda\\jogozelda\\jogozelda\\jogozelda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F97CFA41-74CC-44C6-870E-3219D0579DD8}|JogoZelda\\JogoZelda.csproj|solutionrelative:jogozelda\\jogozelda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2A6D20-79E6-4FE5-9AB3-B824E1C60D59}|Domain\\Domain.csproj|c:\\users\\senac\\desktop\\zelda\\jogozelda\\domain\\interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2A6D20-79E6-4FE5-9AB3-B824E1C60D59}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92F6EC7-CD06-4C71-8B06-A1E3186385D9}|Plugins\\Plugins.csproj|c:\\users\\senac\\desktop\\zelda\\jogozelda\\plugins\\plugins.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C92F6EC7-CD06-4C71-8B06-A1E3186385D9}|Plugins\\Plugins.csproj|solutionrelative:plugins\\plugins.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +45,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\Senac\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\Senac\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AgIAAHcCAAAAAAAAAAAowG8CAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-26T00:27:58.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Plugins",
+              "DocumentMoniker": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\Plugins\\Plugins.csproj",
+              "RelativeDocumentMoniker": "Plugins\\Plugins.csproj",
+              "ToolTip": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\Plugins\\Plugins.csproj",
+              "RelativeToolTip": "Plugins\\Plugins.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T23:54:15.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\Plugins\\SQLite\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Plugins\\SQLite\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\Plugins\\SQLite\\DatabaseService.cs",
+              "RelativeToolTip": "Plugins\\SQLite\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:53:57.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\Domain\\Interfaces\\IDatabaseService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDatabaseService.cs",
+              "ToolTip": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\Domain\\Interfaces\\IDatabaseService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IDatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:47:42.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\Domain\\Entities\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PlayerData.cs",
+              "ToolTip": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\Domain\\Entities\\PlayerData.cs",
+              "RelativeToolTip": "Domain\\Entities\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:42:45.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JogoZelda",
+              "DocumentMoniker": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\JogoZelda\\JogoZelda.csproj",
+              "RelativeDocumentMoniker": "JogoZelda\\JogoZelda.csproj",
+              "ToolTip": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\JogoZelda\\JogoZelda.csproj",
+              "RelativeToolTip": "JogoZelda\\JogoZelda.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T23:33:33.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Senac\\Desktop\\JogoZelda\\JogoZelda\\MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\JogoZelda\\MauiProgram.cs",
               "RelativeDocumentMoniker": "JogoZelda\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Senac\\Desktop\\JogoZelda\\JogoZelda\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Senac\\Desktop\\Zelda\\JogoZelda\\JogoZelda\\MauiProgram.cs",
               "RelativeToolTip": "JogoZelda\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T23:00:06.371Z",
               "EditorCaption": ""

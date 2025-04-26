@@ -18,7 +18,9 @@ public static class MauiProgram
 #if DEBUG
 		builder.Logging.AddDebug();
 #endif
-
-		return builder.Build();
+		#region Dependency Injection
+		builder.Services.AddSingleton<IDatabaseService, IDatabaseService>();
+        #endregion
+        return builder.Build();
 	}
 }
